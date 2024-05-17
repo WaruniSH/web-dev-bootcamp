@@ -1,0 +1,21 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+.note{
+  color: red;
+  font-size: 20px;
+}
+
+#id-selector-demo{
+  color: green;
+}
+
+*{
+  text-align: center;
+}
+
+
+/* Write your CSS below, don't change the rules above. */
